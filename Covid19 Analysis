@@ -1,4 +1,4 @@
- select Data using CovidDeaths dataset
+--select Data using CovidDeaths dataset
 SELECT
 	location, 
 	date, total_cases, 
